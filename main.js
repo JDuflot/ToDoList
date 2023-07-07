@@ -42,21 +42,9 @@ form.addEventListener('submit', function (e) {
     e.target.parentElement.remove()
     
     window.confirm("=^.^=  Êtes-vous sûr de vouloir supprimer cette tâche?  =^.^=")
-    // return confirm ? function action()
-        //  {
-        //     var ok = confirm("Etes-vous sûr ?");
-        //     if (ok)
-        //        {
-        //        alert("allons-y !");
-        //        return true;
-        //        }
-        //     else
-        //        {
-        //        alert("abandon");
-        //        return false;
-        //        }
-        //     }
-     
+  
+
+
     })
 
 
